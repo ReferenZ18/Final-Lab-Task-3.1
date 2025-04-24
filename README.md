@@ -16,3 +16,47 @@ In this task, we are able to utilize the SELECT and SUM function to calculate th
 
 - **Task 5**:
 In this task, we are able to utilize the SELECT and ORDER BY clauses to sort the courses in ascending order based on students_enrolled.
+
+# Query Statements
+
+- **Task 1**
+
+<img src="Images/Retrieve1.png" alt="Alt Text" Width="300">
+
+- **Task 2**
+
+<img src="Images/GROUP-BY-CAT.png" alt="Alt Text" Width="300">
+
+- **Task 3**
+
+<img src="Images/Fully-Enrolled.png" alt="Alt Text" Width="500">
+
+- **Task 4**
+
+<img src="Images/Total-Enrolled.png" alt="Alt Text" Width="300">
+
+- **Task 5**
+
+<img src="Images/Ascending.png" alt="Alt Text" Width="400">
+
+#  Table Structure
+
+- **Task 1**
+
+<img src="Images/T1.png" alt="Alt Text" Width="300">
+
+- **Task 2**
+
+<img src="Images/T2.png" alt="Alt Text" Width="300">
+
+- **Task 3**
+
+<img src="Images/T3.png" alt="Alt Text" Width="500">
+
+- **Task 4**
+
+<img src="Images/T4.png" alt="Alt Text" Width="300">
+
+- **Task 5**
+
+<img src="Images/T5.png" alt="Alt Text" Width="400">
